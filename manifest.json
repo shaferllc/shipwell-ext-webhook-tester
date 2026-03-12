@@ -1,0 +1,6 @@
+{
+  "id": "webhook-tester",
+  "name": "Webhook Tester",
+  "version": "1.0.0",
+  "description": "Test incoming webhooks by sending custom payloads and inspecting responses in real time."
+}
