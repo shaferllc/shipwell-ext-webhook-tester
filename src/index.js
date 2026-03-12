@@ -6,7 +6,7 @@ const WEBHOOK_ICON =
 window.__registerDetailTabExtension({
   id: 'webhook-tester',
   label: 'Webhooks',
-  description: 'Test incoming webhooks by sending custom payloads and inspecting responses in real time.',
+  description: 'Capture and inspect incoming HTTP requests — like webhook.site, built in.',
   version: '1.0.0',
   icon: WEBHOOK_ICON,
   component: DetailWebhookTesterCard,
